@@ -1,0 +1,19 @@
+ucuenca/progra/store/product/ServiceProductApplication.java
+ ucuenca.progra.store.product.ServiceProductApplication
+ucuenca/progra/store/product/controller/ProductController.java
+ ucuenca.progra.store.product.controller.ProductController
+ucuenca/progra/store/product/repository/ProductRepository.java
+ ucuenca.progra.store.product.repository.ProductRepository
+ucuenca/progra/store/product/service/ProductService.java
+ ucuenca.progra.store.product.service.ProductService
+ucuenca/progra/store/product/entity/Product.java
+ ucuenca.progra.store.product.entity.Product
+ ucuenca.progra.store.product.entity.Product$ProductBuilder
+ucuenca/progra/store/product/entity/Category.java
+ ucuenca.progra.store.product.entity.Category
+ ucuenca.progra.store.product.entity.Category$CategoryBuilder
+ucuenca/progra/store/product/service/ProductServiceImpl.java
+ ucuenca.progra.store.product.service.ProductServiceImpl
+ucuenca/progra/store/product/controller/ErrorMessage.java
+ ucuenca.progra.store.product.controller.ErrorMessage
+ ucuenca.progra.store.product.controller.ErrorMessage$ErrorMessageBuilder

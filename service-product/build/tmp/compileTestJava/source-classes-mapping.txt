@@ -1,0 +1,6 @@
+ucuenca/progra/store/product/ServiceProductApplicationTests.java
+ ucuenca.progra.store.product.ServiceProductApplicationTests
+ucuenca/progra/store/product/ProductRepositoryMockTest.java
+ ucuenca.progra.store.product.ProductRepositoryMockTest
+ucuenca/progra/store/product/ProductServiceMockTest.java
+ ucuenca.progra.store.product.ProductServiceMockTest
